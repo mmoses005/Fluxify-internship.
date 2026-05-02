@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Payroll Management System (EPMS)
 
 This project contains a backend and frontend for SmartPark payroll management.
@@ -31,3 +32,7 @@ This project contains a backend and frontend for SmartPark payroll management.
 Default credentials:
 - username: `admin`
 - password: `password123`
+=======
+# Fluxify-internship.
+Fluxify internship.
+>>>>>>> bfdd93e0dc2317f3ad4a911d57fc32d3cbaa2c4b
